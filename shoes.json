@@ -1,0 +1,17 @@
+{ "shoes": [{
+    "title": "Vans",
+    "description": "Meh",
+    "image": "No",
+    "cost": "None"
+  }, {
+    "title": "Nikes",
+    "description": "Yikes",
+    "image": "Do it",
+    "cost": "Lucrative"
+  }, {
+    "title": "Asics",
+    "description": "4",
+    "image": "6",
+    "cost": "7"
+  }]
+}
