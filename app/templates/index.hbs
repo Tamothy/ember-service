@@ -1,6 +1,8 @@
-<ul>
+<div class="cart-display">
+
   {{#each model as |shoe|}}
-     {{shoe-tile shoe=shoe}}
-     {{display-cart shoe=shoe}}
+    <h3>{{shoe-tile shoe=shoe}}</h3>
   {{/each}}
-</ul>
+
+  {{display-cart shoe=shoe}}
+</div>
