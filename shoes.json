@@ -1,17 +1,17 @@
 { "shoes": [{
-    "title": "Vans",
-    "description": "Meh",
-    "image": "No",
-    "cost": "None"
+    "title": "New Balance",
+    "description": "Trailbuster",
+    "image": "http://static6.businessinsider.com/image/56254671ecad04f839694c9f-680/new-balance-for-jcrew-trailbuster-sneakers-80.jpg",
+    "cost": "80"
   }, {
-    "title": "Nikes",
-    "description": "Yikes",
-    "image": "Do it",
-    "cost": "Lucrative"
+    "title": "Adidas",
+    "description": "Yeezy's",
+    "image": "http://static.highsnobiety.com/wp-content/uploads/2015/12/03162839/best-sneaker-featured.jpg",
+    "cost": "300"
   }, {
-    "title": "Asics",
-    "description": "4",
-    "image": "6",
-    "cost": "7"
+    "title": "Nike",
+    "description": "Jordan 11's",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/da/2f/f7/da2ff7e5f23a257f6f8cd567a2111bab.jpg",
+    "cost": "150"
   }]
 }

@@ -1,6 +1,6 @@
-{{shoe.title}}
-{{shoe.image}}
-{{shoe.description}}
-{{shoe.cost}}
-
+<h3>{{shoe.title}}</h3>
+<p>{{shoe.description}}</p>
+<img src="{{shoe.image}}" alt="shoe.title" width="300px" height="auto"/>
+<br><br>
+<p>${{shoe.cost}}</p>
 <button class="btn btn-info" {{action 'addToCart' shoe}}>Add to Cart</button>
