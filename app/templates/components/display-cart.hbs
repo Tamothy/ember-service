@@ -2,5 +2,6 @@
 {{#each shoppingCart.items as |item|}}
   <h2>{{item.title}}</h2>
   <h4>${{item.cost}}</h4>
-{{/each}}
+  <button class="btn btn-warning" {{action 'removeFromCart' item}}>Remove From Cart</button>
+  {{/each}}
 </div>
