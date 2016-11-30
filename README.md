@@ -1,7 +1,10 @@
-# E-commerce
+# E-commerce Shoe Store (Ember Service)
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### By Tam Nguyen 
+
+## Description
+
+This project contains an exercise practicing Ember framework, incorporating Ember service for an online shoe store, providing functionality to add and remove shoes in a shopping cart.
 
 ## Prerequisites
 
@@ -15,8 +18,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd e-commerce`
+* `git clone https://github.com/Tamothy/ember-service` this repository
+* `cd ember-service`
 * `npm install`
 * `bower install`
 
@@ -25,29 +28,22 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
+## Technologies Used
 
-Make use of the many generators for code, try `ember help generate` for more details
+Ember
 
-### Running Tests
+JavaScript
 
-* `ember test`
-* `ember test --server`
+Node
 
-### Building
+Gulp
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+CSS
 
-### Deploying
+HTML
 
-Specify what it takes to deploy your app.
+### License
 
-## Further Reading / Useful Links
+This software is licensed under the MIT license.
 
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+Copyright (c) 2016 **Tam Nguyen**
